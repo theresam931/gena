@@ -3,11 +3,12 @@
 导航网站生成器 | [English Document](https://github.com/x1ah/gena/blob/master/README_EN.md)
 
 
-![Test](https://github.com/x1ah/gena/workflows/Test/badge.svg) ![Lint](https://github.com/x1ah/gena/workflows/Lint/badge.svg)
+![Test](https://github.com/x1ah/gena/workflows/Test/badge.svg) ![Lint](https://github.com/x1ah/gena/workflows/Lint/badge.svg) [![Go Report Card](https://goreportcard.com/badge/github.com/x1ah/gena)](https://goreportcard.com/report/github.com/x1ah/gena) [![goproxy.cn](https://goproxy.cn/stats/github.com/x1ah/gena/badges/download-count.svg)](https://github.com/x1ah/gena)
+
 
 ---
 
-![image](https://user-images.githubusercontent.com/14919255/115016835-3395f900-9ee8-11eb-90d7-5ed816f59872.png)
+![image](https://user-images.githubusercontent.com/14919255/116836115-ec9e4800-abf7-11eb-9a83-82eb379c130d.png)
 
 
 ## 安装
@@ -55,3 +56,11 @@ gena -c your/path/to/config.yaml 1> index.html
 ## 使用案例
 
 - [when.run/nav](https://when.run/nav/)
+
+
+## 交流群
+
+|QQ 群|
+|:--:|
+|群号：100916933<br><img src="https://user-images.githubusercontent.com/14919255/118518920-372cd200-b76b-11eb-8271-0ee04e8df04c.jpeg" height="350px" />|
+
